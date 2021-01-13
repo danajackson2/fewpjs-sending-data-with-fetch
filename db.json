@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,43 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Willow",
+      "dogBreed": "Mix",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "Willow",
+      "dogBreed": "Mix",
+      "submit": "Submit",
+      "id": 4
+    },
+    {
+      "dogName": "Barry",
+      "dogBreed": "Mix",
+      "submit": "Submit",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Loopy",
+      "dogBreed": "Snoopy",
+      "id": 7
+    },
+    {
+      "name": "dana",
+      "email": "email.com",
+      "id": 8
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +56,92 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "dana",
+      "email": "email.com",
+      "id": 1
+    },
+    {
+      "name": "dana",
+      "email": "email.com",
+      "id": 2
+    },
+    {
+      "name": "dana",
+      "email": "email.com",
+      "id": 3
+    },
+    {
+      "name": "dana",
+      "email": "email.com",
+      "id": 4
+    },
+    {
+      "name": "da",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "name": "jeff",
+      "email": "email.com",
+      "id": 8
+    },
+    {
+      "name": "jeff",
+      "email": "email.com",
+      "id": 9
+    },
+    {
+      "name": "jeff",
+      "email": "email.com",
+      "id": 10
+    },
+    {
+      "name": "jeff",
+      "email": "email.com",
+      "id": 11
+    },
+    {
+      "name": "jeff",
+      "email": "email.com",
+      "id": 12
+    },
+    {
+      "name": "jeff",
+      "email": "email.com",
+      "id": 13
+    },
+    {
+      "name": "jeff",
+      "email": "email.com",
+      "id": 14
+    },
+    {
+      "name": "dana",
+      "email": "email.com",
+      "id": 15
+    },
+    {
+      "name": "dana",
+      "email": "email.com",
+      "id": 16
+    },
+    {
+      "name": "dana",
+      "id": 17
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
