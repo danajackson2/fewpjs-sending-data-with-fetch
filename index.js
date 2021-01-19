@@ -16,7 +16,6 @@
         return response.json()
     })
     .then(function(object) {
-        console.log(object)
         let id = document.createElement('p')
         id.textContent = object.id
         document.querySelector('h2').appendChild(id)
